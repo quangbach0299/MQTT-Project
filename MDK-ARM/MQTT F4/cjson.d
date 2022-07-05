@@ -1,0 +1,10 @@
+mqtt f4\cjson.o: ..\cJSON\cJSON.c
+mqtt f4\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+mqtt f4\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+mqtt f4\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+mqtt f4\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+mqtt f4\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+mqtt f4\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+mqtt f4\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+mqtt f4\cjson.o: ..\cJSON\cJSON.h
+mqtt f4\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
